@@ -1,2 +1,6 @@
 ru/stqa/javaCourse/sandbox/MyFirstProgram.java
  ru.stqa.javaCourse.sandbox.MyFirstProgram
+ru/stqa/javaCourse/sandbox/Square.java
+ ru.stqa.javaCourse.sandbox.Square
+ru/stqa/javaCourse/sandbox/Rectangle.java
+ ru.stqa.javaCourse.sandbox.Rectangle
