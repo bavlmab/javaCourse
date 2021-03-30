@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.stqa.javaCourse.sandbox.SquareTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-30T17:34:02" hostname="DESKTOP-EOSM26G" time="0.006">
+  <properties/>
+  <testcase name="testArea" classname="ru.stqa.javaCourse.sandbox.SquareTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
